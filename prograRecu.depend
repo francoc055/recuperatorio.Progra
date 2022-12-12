@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670848549 source:c:\users\franco\documents\prograrecu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
